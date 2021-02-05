@@ -1,0 +1,16 @@
+mxnet==1.7.0.post1
+numpy==1.17.4
+opencv-python==4.5.1.48
+Pillow==7.0.0
+scikit-image==0.18.1
+scikit-learn==0.24.1
+scipy==1.6.0
+sklearn==0.0
+torch==1.7.1
+matplotlib==3.0.2
+torchvision==0.8.2
+
+# pip install -r requests.txt
+# pip install git+https://github.com/elliottzheng/face-detection.git@master
+
+
